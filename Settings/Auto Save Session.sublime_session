@@ -3,10 +3,10 @@
 	[
 		"/media/php/cellove_git"
 	],
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 769.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -18,15 +18,19 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 369.0,
 				"selected_items":
 				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 449.0
 			},
 			"console":
 			{
-				"height": 0.0
+				"height": 139.0
 			},
 			"distraction_free":
 			{
@@ -39,9 +43,11 @@
 			},
 			"file_history":
 			[
+				"/etc/fstab",
+				"/etc/hosts",
+				"/etc/network/interfaces",
 				"/home/francesc/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 				"/usr/share/applications/defaults.list",
-				"/etc/fstab",
 				"/home/francesc/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/media/php/IMCOVEL_COM/newsletter/newsletter_send.php",
 				"/media/php/IMCOVEL_COM/newsletter/newsletter_send_prov.php",
@@ -56,6 +62,7 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"<open files>",
 					""
 				]
 			},
@@ -64,6 +71,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"firefox.desktop",
 					"gedit.desktop"
 				],
 				"highlight": true,
@@ -136,10 +144,10 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 200.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 0.0
+		"new_window_width": 1160.0
 	},
 	"windows":
 	[
@@ -157,6 +165,14 @@
 					"settings":
 					{
 						"buffer_size": 10470,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/francesc/.config/sublime-text-2/Packages/CSS/CSS.tmLanguage",
+					"settings":
+					{
+						"buffer_size": 29369,
 						"line_ending": "Unix"
 					}
 				}
@@ -205,7 +221,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
 					"<open files>",
@@ -243,7 +259,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -264,12 +280,43 @@
 								],
 								"settings":
 								{
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
 									"encoding_helper_encoding_sublime": "UTF-8",
-									"encoding_helper_loading": true,
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 1785.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/francesc/.config/sublime-text-2/Packages/CSS/CSS.tmLanguage",
+							"settings":
+							{
+								"buffer_size": 29369,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										309,
+										309
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -308,7 +355,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,0,0,0,0,2044,80,3204,849,3200,1080",
+			"position": "0,0,0,0,0,2038,80,3198,849,3200,1080",
 			"replace":
 			{
 				"height": 0.0
